@@ -29,6 +29,7 @@
     "prettier"
   ],
   "rules": {
+    "react/jsx-one-expression-per-line": "off",
     "camelcase": "off",
     "no-console": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
