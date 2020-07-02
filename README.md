@@ -30,7 +30,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Localize e salve localmente seus repositórios favoritos com o GitHub Explorer
+Localize e salve localmente usando LocalStorage seus repositórios favoritos com o GitHub Explorer
 
 ## 🎨 Layout
 
